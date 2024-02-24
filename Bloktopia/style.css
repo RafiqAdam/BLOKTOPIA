@@ -1,0 +1,103 @@
+
+.navlink {
+    padding-left: 100px;
+    display: flex;
+    gap: 10px;
+}
+.nav{
+    display: flex;
+      
+}
+.section2{
+    background-color: black;
+    /* border: 1px solid blue; */
+    display: flex;
+    height: 600px;
+    justify-content: space-evenly;
+    
+}
+.img{
+    margin-top: 100px;
+}
+.img img{
+    border-radius: 30px;
+
+}
+.text{
+    margin-top: 100px;
+}
+.text h1 {
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+
+}
+h2{
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+}
+.p1{
+    color: white;
+}
+.button1{
+    /* border: 3px solid purple; */
+    width: 200px;
+    border-radius:10px ;
+    background-color: rgb(82, 81, 81);
+    color: white;
+}
+.section3{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+.text2{
+    margin-top: 200px;
+    /* color: white; */
+}
+.h11{
+    color: white;
+}
+.p11{
+    color: white;
+}
+.section4{
+    /* border: 1px solid white; */
+    /* height: 300px; */
+    background-color: black;
+}
+.box1{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    gap: 40px;
+    border-radius: 20px;
+}
+.section5{
+    background-color: black;
+}
+.section6{
+    background-color: rgb(23,23,23);
+    /* border: 1px solid blue; */
+    height: 600px;
+}
+.box3{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.h22{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.box4{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 30px;
+    color: purple;
+}
+
